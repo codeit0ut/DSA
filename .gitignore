@@ -1,0 +1,23 @@
+# Build artifacts
+/target/
+target/
+Cargo.lock
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.iml
+
+# Rust
+*.rlib
+*.rmeta
+
+# OS
+.DS_Store
+.AppleDouble
+.LSOverride
