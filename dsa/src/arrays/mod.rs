@@ -5,3 +5,8 @@ pub mod container_with_most_water;
 pub mod sorted_squares;
 pub mod three_sum;
 pub mod max_water_trap;
+pub mod max_avg_subarray;
+pub mod max_vowels_substring;
+pub mod longest_substring;
+pub mod min_subarray_sum;
+pub mod min_win_substring;
