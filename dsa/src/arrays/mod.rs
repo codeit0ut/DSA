@@ -10,3 +10,8 @@ pub mod max_vowels_substring;
 pub mod longest_substring;
 pub mod min_subarray_sum;
 pub mod min_win_substring;
+pub mod binary_search;
+pub mod search_insert;
+pub mod first_bad_version;
+pub mod first_last_pos;
+pub mod search_rotated_array;

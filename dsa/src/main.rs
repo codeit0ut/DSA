@@ -7,7 +7,10 @@
 // use dsa::arrays::max_avg_subarray::max_avg_subarray;
 // use dsa::arrays::max_vowels_substring::max_vowels_substring;
 // use dsa::arrays::longest_substring::longest_substring;
-use dsa::arrays::min_subarray_sum::min_subarray_sum;
+// use dsa::arrays::min_subarray_sum::min_subarray_sum;
+// use dsa::arrays::binary_search::binary_search;
+// use dsa::arrays::search_insert::search_insert;
+use dsa::arrays::first_last_pos::first_last_pos;
 
 fn main() {
     // two_sum();
@@ -19,5 +22,8 @@ fn main() {
     // max_avg_subarray();
     // max_vowels_substring();
     // longest_substring();
-    min_subarray_sum();
+    // min_subarray_sum();
+    // binary_search();
+    // search_insert();
+    first_last_pos();
 }
